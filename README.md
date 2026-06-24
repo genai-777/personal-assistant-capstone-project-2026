@@ -63,7 +63,7 @@ personal_assistant/
 git clone <your-repo>
 cd personal_assistant
 
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate        # Mac/Linux
 venv\Scripts\activate           # Windows
 ```
